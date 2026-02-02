@@ -36,17 +36,17 @@ I enjoy working on projects that bridge the gap between **theory and deployment*
 
 ##  Projects
 
-- **Diabetic Retinopathy Detection**  
-  AI-based severity detection system for early screening of diabetic eye disease, designed with a clinical-style UI and analytics support.
+- **MindDesk: Offline Psychometric & Aptitude Assessment Platform** : 
+Offline AI-based system for psychometric testing and aptitude assessment, providing behavioral insights and skill profiling without external APIs or API keys, designed for secure and privacy-first deployment.
 
-- **Driver Drowsiness Detection**  
-  Real-time computer vision system to detect fatigue and improve road safety.
+- **Diabetic Retinopathy Detection**: 
+AI-based severity detection system for early screening of diabetic retinopathy, designed with a clinical-style interface, analytics support, and explainable outputs for medical decision-making.
 
-- **Cheating Detection System (ProctorX-AI)**  
-  AI-powered online exam monitoring solution using vision-based behavior analysis.
+- **Driver Drowsiness Detection**: 
+Real-time computer vision system for detecting driver fatigue using visual cues and temporal patterns to enhance road safety.
 
-- **Healthcare RAG Assistant**  
-  Retrieval-Augmented Generation system using Neo4j and LangChain for healthcare information access.
+- **Workforce Attrition Prediction System**:
+Explainable machine learning system to identify early employee attrition risk, delivering interpretable insights and retention-focused analytics for workforce planning.
 
 ---
 
