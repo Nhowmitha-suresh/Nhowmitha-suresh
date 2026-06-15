@@ -14,39 +14,146 @@ I enjoy working on projects that bridge the gap between **theory and deployment*
 - Data Analysis & Intelligent Applications  
 
 ---
+## 📊 GitHub Analytics
 
-##  Technical Skills
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nhowmitha-suresh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=Nhowmitha-suresh&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nhowmitha-suresh&theme=tokyo-night&hide_border=true" />
+</p>## 🔥 LeetCode Journey
 
-**Programming Languages**  
-- Python, Java, SQL  
+<p align="center">
+<img width="100%" src="https://leetcard.jacoblin.cool/NHOWMITHA_SURESH?theme=dark&font=Karma&ext=heatmap" />
+</p>
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nhowmitha-suresh&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+## 📊 GitHub Overview
 
-**Machine Learning & Deep Learning**  
-- Scikit-learn, TensorFlow, PyTorch  
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nhowmitha-suresh&theme=tokyonight" />
+</p>
 
-**Computer Vision**  
-- OpenCV, MediaPipe  
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-**Data & Visualization**  
-- NumPy, Pandas, Matplotlib  
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=900&lines=Python;Java;TensorFlow;PyTorch;OpenCV;Scikit-Learn;Docker;Neo4j" />
+</p>
 
-**Tools & Platforms**  
-- Git, GitHub, Docker, Neo4j  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,docker,git,github,mysql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graph%20DB-Neo4j-blue?style=for-the-badge"/>
+</p>
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="100%">
+
+## 🩺 Diabetic Retinopathy Detection System
+
+🏆 **Product Pitch Winner** | 👥 **Team Thiran**
+
+🔬 AI-powered retinal image analysis system for **early diabetic retinopathy screening**, designed to support timely diagnosis and reduce the risk of vision loss.
+
+### ✨ Highlights
+- 🧠 Deep Learning-based severity classification
+- 👁️ Computer Vision for retinal image analysis
+- 📊 Clinical-style dashboard with analytics
+- 🔍 Explainable AI outputs for medical decision support
+- 🚀 Presented at product pitching and innovation events
+
+**Tech Stack:**  
+`Python` `TensorFlow` `OpenCV` `NumPy` `Pandas` `Matplotlib`
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  Projects
+<table>
+<tr>
 
-- **MindDesk: Offline Psychometric & Aptitude Assessment Platform** : 
-Offline AI-based system for psychometric testing and aptitude assessment, providing behavioral insights and skill profiling without external APIs or API keys, designed for secure and privacy-first deployment.
+<td width="50%">
 
-- **Diabetic Retinopathy Detection**: 
-AI-based severity detection system for early screening of diabetic retinopathy, designed with a clinical-style interface, analytics support, and explainable outputs for medical decision-making.
+## 🧠 MindDesk
 
-- **Driver Drowsiness Detection**: 
-Real-time computer vision system for detecting driver fatigue using visual cues and temporal patterns to enhance road safety.
+### Offline Psychometric & Aptitude Assessment Platform
 
-- **Workforce Attrition Prediction System**:
-Explainable machine learning system to identify early employee attrition risk, delivering interpretable insights and retention-focused analytics for workforce planning.
+🤖 Privacy-first AI system for behavioral analysis and skill profiling.
+
+### Features
+- 📈 Psychometric evaluation
+- 🎯 Aptitude assessment
+- 🔒 Fully offline deployment
+- 🧩 Behavioral insights generation
+- 🚫 No API keys required
+
+**Tech:**  
+`Python` `Machine Learning` `Analytics`
+
+</td>
+
+<td width="50%">
+
+## 😴 Driver Drowsiness Detection
+
+### Real-Time Road Safety System
+
+🚗 Computer vision solution for detecting driver fatigue and reducing accident risk.
+
+### Features
+- 👁️ Eye state monitoring
+- ⏱️ Temporal pattern analysis
+- 🚨 Real-time alert generation
+- 📹 Webcam-based detection
+
+**Tech:**  
+`OpenCV` `MediaPipe` `Python`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+## 📊 Workforce Attrition Prediction System
+
+### Explainable HR Analytics Platform
+
+🏢 Machine learning system that predicts employee attrition risk and provides actionable retention insights.
+
+### Features
+- 📉 Attrition risk prediction
+- 🔍 Explainable AI insights
+- 📊 Workforce analytics dashboard
+- 🎯 Retention-focused recommendations
+- 📈 Data-driven HR decision support
+
+**Tech Stack:**  
+`Python` `Scikit-Learn` `Pandas` `Matplotlib`
+
+</td>
+</tr>
+</table>
 
 ---
 
