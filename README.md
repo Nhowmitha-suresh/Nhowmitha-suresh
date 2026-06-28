@@ -16,9 +16,7 @@ I enjoy working on projects that bridge the gap between **theory and deployment*
 ---
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nhowmitha-suresh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="center">
 <img width="100%" src="https://streak-stats.demolab.com?user=Nhowmitha-suresh&theme=tokyonight&hide_border=true" />
 </p>
