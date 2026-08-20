@@ -1,172 +1,246 @@
-#  Hi, I'm Nhowmitha S
+<div align="center">
 
-I am an **Artificial Intelligence & Data Science undergraduate** with a strong interest in building **practical, real-world AI systems**.  
-My focus is on applying **Machine Learning and Computer Vision** to solve meaningful problems, especially in **healthcare and intelligent automation**.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Nhowmitha%20S&fontSize=52&fontColor=ffffff&color=gradient" width="100%">
 
-I enjoy working on projects that bridge the gap between **theory and deployment**, with emphasis on clarity, reliability, and ethical AI use.
+<br>
+
+### Artificial Intelligence & Data Science
+
+Machine Learning · Deep Learning · Computer Vision · AI Engineering
+
+<br>
+
+<a href="https://github.com/Nhowmitha-suresh">
+<img src="https://img.shields.io/badge/GitHub-Nhowmitha--suresh-181717?style=flat-square&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/nhowmitha-suresh-438b85281/">
+<img src="https://img.shields.io/badge/LinkedIn-Nhowmitha%20Suresh-0A66C2?style=flat-square&logo=linkedin">
+</a>
+
+</div>
 
 ---
 
-##  Areas of Interest
-- Machine Learning & Deep Learning  
-- Computer Vision  
-- Healthcare AI Systems  
-- Data Analysis & Intelligent Applications  
+## About
+
+I am an **Artificial Intelligence & Data Science undergraduate** interested in building practical AI systems that solve real-world problems.
+
+My primary interests include **Machine Learning, Deep Learning, Computer Vision, Data Analytics, Healthcare AI, and intelligent automation**.
+
+I enjoy working across the complete AI development process, from data preparation and model development to evaluation, explainability, application development, and deployment.
 
 ---
-## 📊 GitHub Analytics
 
+## Areas of Interest
 
-<p align="center">
-<img width="100%" src="https://streak-stats.demolab.com?user=Nhowmitha-suresh&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nhowmitha-suresh&theme=tokyo-night&hide_border=true" />
-</p>## 🔥 LeetCode Journey
+| Area | Focus |
+| --- | --- |
+| Machine Learning | Predictive modeling, classification, feature engineering |
+| Deep Learning | Neural networks, CNNs, model development |
+| Computer Vision | Image processing, detection, classification |
+| Healthcare AI | Medical image analysis and decision support |
+| Data Analytics | Data preprocessing, EDA, visualization |
+| AI Engineering | AI applications, APIs, deployment |
+| Generative AI | RAG, LLM applications, AI agents |
 
-<p align="center">
-<img width="100%" src="https://leetcard.jacoblin.cool/NHOWMITHA_SURESH?theme=dark&font=Karma&ext=heatmap" />
-</p>
-<p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nhowmitha-suresh&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-## 📊 GitHub Overview
+---
 
-<p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nhowmitha-suresh&theme=tokyonight" />
-</p>
+## Technology Stack
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=900&lines=Python;Java;TensorFlow;PyTorch;OpenCV;Scikit-Learn;Docker;Neo4j" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,docker,git,github,mysql,postgres,neo4j" width="700">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,docker,git,github,mysql" />
-</p>
+<br><br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graph%20DB-Neo4j-blue?style=for-the-badge"/>
-</p>
+`Python` `Java` `TensorFlow` `PyTorch` `OpenCV`
 
-# 🚀 Featured Projects
+`Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
 
-<table>
-<tr>
-<td width="100%">
+`Docker` `Git` `GitHub` `MySQL` `PostgreSQL` `Neo4j`
 
-## 🩺 Diabetic Retinopathy Detection System
+</div>
 
-🏆 **Product Pitch Winner** | 👥 **Team Thiran**
+---
 
-🔬 AI-powered retinal image analysis system for **early diabetic retinopathy screening**, designed to support timely diagnosis and reduce the risk of vision loss.
+# Featured Projects
 
-### ✨ Highlights
-- 🧠 Deep Learning-based severity classification
-- 👁️ Computer Vision for retinal image analysis
-- 📊 Clinical-style dashboard with analytics
-- 🔍 Explainable AI outputs for medical decision support
-- 🚀 Presented at product pitching and innovation events
+## Diabetic Retinopathy Detection System
 
-**Tech Stack:**  
+**Product Pitch Winner — Team Thiran**
+
+An AI-powered retinal image analysis system designed to support **early diabetic retinopathy screening**.
+
+### Highlights
+
+- Deep learning-based severity classification
+- Retinal image preprocessing
+- Computer vision-based analysis
+- Explainable AI outputs
+- Clinical-style analytics dashboard
+- Model evaluation and prediction analysis
+
+**Technology:**  
 `Python` `TensorFlow` `OpenCV` `NumPy` `Pandas` `Matplotlib`
 
-</td>
-</tr>
-</table>
+---
+
+## MindDesk
+
+### Offline Psychometric and Aptitude Assessment Platform
+
+A privacy-focused assessment platform designed for psychometric evaluation, aptitude assessment, behavioral analysis, and skill profiling.
+
+### Highlights
+
+- Psychometric evaluation
+- Aptitude assessment
+- Behavioral insights
+- Skill profiling
+- Analytics
+- Fully offline execution
+- No external API dependency
+
+**Technology:**  
+`Python` `Machine Learning` `Data Analytics`
 
 ---
 
-<table>
-<tr>
+## Driver Drowsiness Detection
 
-<td width="50%">
+### Real-Time Computer Vision System
 
-## 🧠 MindDesk
+A computer vision-based system designed to identify driver fatigue and drowsiness in real time.
 
-### Offline Psychometric & Aptitude Assessment Platform
+### Highlights
 
-🤖 Privacy-first AI system for behavioral analysis and skill profiling.
+- Real-time webcam monitoring
+- Eye-state detection
+- Facial landmark analysis
+- Temporal pattern analysis
+- Drowsiness detection
+- Real-time alert generation
 
-### Features
-- 📈 Psychometric evaluation
-- 🎯 Aptitude assessment
-- 🔒 Fully offline deployment
-- 🧩 Behavioral insights generation
-- 🚫 No API keys required
-
-**Tech:**  
-`Python` `Machine Learning` `Analytics`
-
-</td>
-
-<td width="50%">
-
-## 😴 Driver Drowsiness Detection
-
-### Real-Time Road Safety System
-
-🚗 Computer vision solution for detecting driver fatigue and reducing accident risk.
-
-### Features
-- 👁️ Eye state monitoring
-- ⏱️ Temporal pattern analysis
-- 🚨 Real-time alert generation
-- 📹 Webcam-based detection
-
-**Tech:**  
-`OpenCV` `MediaPipe` `Python`
-
-</td>
-
-</tr>
-</table>
+**Technology:**  
+`Python` `OpenCV` `MediaPipe`
 
 ---
 
-<table>
-<tr>
-<td width="100%">
-
-## 📊 Workforce Attrition Prediction System
+## Workforce Attrition Prediction System
 
 ### Explainable HR Analytics Platform
 
-🏢 Machine learning system that predicts employee attrition risk and provides actionable retention insights.
+A machine learning system designed to predict employee attrition risk and provide data-driven insights for workforce retention.
 
-### Features
-- 📉 Attrition risk prediction
-- 🔍 Explainable AI insights
-- 📊 Workforce analytics dashboard
-- 🎯 Retention-focused recommendations
-- 📈 Data-driven HR decision support
+### Highlights
 
-**Tech Stack:**  
-`Python` `Scikit-Learn` `Pandas` `Matplotlib`
+- Attrition risk prediction
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Explainable ML insights
+- Workforce analytics
+- Retention recommendations
 
-</td>
-</tr>
-</table>
-
----
-
-##  Currently Learning
-- Advanced Deep Learning techniques  
-- AI Agents and RAG architectures  
-- System design for scalable ML applications  
+**Technology:**  
+`Python` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
-##  Career Objective
-To work as an **AI/ML Engineer**, contributing to the development of **reliable, ethical, and impactful AI systems** that address real-world challenges, particularly in healthcare and intelligent automation.
+# Engineering Focus
+
+My interest goes beyond model training. I am focused on understanding how AI becomes part of a complete software system.
+
+I work toward strengthening my skills across:
+
+**Data → Machine Learning → Application Development → Deployment**
+
+This includes:
+
+- Data preparation
+- Model development
+- Model evaluation
+- Explainable AI
+- API development
+- Database integration
+- Containerization
+- Deployment
 
 ---
 
-##  Connect With Me
-- **GitHub:** https://github.com/Nhowmitha-suresh  
-- **LinkedIn:** https://www.linkedin.com/in/nhowmitha-suresh-438b85281/
+# Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning architectures
+- Computer Vision
+- Generative AI
+- Retrieval-Augmented Generation
+- AI Agents
+- LLM applications
+- ML system design
+- Cloud and deployment technologies
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nhowmitha-suresh&show_icons=true&theme=transparent&hide_border=true" width="48%">
+
+<img src="https://streak-stats.demolab.com?user=Nhowmitha-suresh&theme=transparent&hide_border=true" width="48%">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nhowmitha-suresh&theme=github_dark" width="96%">
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nhowmitha-suresh&theme=github-compact&hide_border=true" width="96%">
+
+</div>
+
+---
+
+# LeetCode
+
+I regularly practice **Data Structures and Algorithms** to strengthen problem-solving and programming fundamentals.
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/NHOWMITHA_SURESH?theme=dark&ext=heatmap" width="85%">
+
+</div>
+
+---
+
+# Career Objective
+
+I am working toward a career as an **AI/ML Engineer**, with a focus on building reliable and practical AI systems.
+
+I am particularly interested in:
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Healthcare AI` · `AI Engineering` · `Intelligent Automation`
+
+My long-term goal is to contribute to systems where **data, software engineering, and machine learning come together to solve meaningful real-world problems**.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%">
+
+<br>
+
+
+
+Machine Learning · Computer Vision · AI Engineering
+
+</div>
